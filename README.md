@@ -1,2 +1,2 @@
 # pricing-card
-An implementation of front end mentor code challenge. It uses basically html and css.
+An implementation of front end mentor code challenge. It basically uses html and css.
